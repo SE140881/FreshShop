@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/FreshShop">
+  <Resource auth="Container" driverClassName="com.microsoft.sqlserver.jdbc.SQLServerDriver" name="DataSource" password="12345" type="javax.sql.DataSource" url="jdbc:sqlserver://localhost:1433;databaseName=FreshShop" username="sa">
+    </Resource>
+</Context>
